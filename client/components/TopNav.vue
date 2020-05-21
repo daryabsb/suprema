@@ -5718,13 +5718,13 @@
               <div class="qodef-grid">
                 <div class="qodef-vertical-align-containers">
                   <!-- MOBILE NAV BUTTON -->
-                  <div class="qodef-mobile-menu-opener">
+                  <!-- <div class="qodef-mobile-menu-opener">
                     <a href="javascript:void(0)">
                       <span class="qodef-mobile-opener-icon-holder">
                         <span aria-hidden="true" class="qodef-icon-font-elegant icon_menu"></span>
                       </span>
                     </a>
-                  </div>
+                  </div>-->
                   <div class="qodef-position-center">
                     <div class="qodef-position-center-inner">
                       <div class="qodef-mobile-logo-wrapper">

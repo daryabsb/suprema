@@ -5993,6 +5993,7 @@
             <div class="qodef-mobile-header-holder">
               <div class="qodef-grid">
                 <div class="qodef-vertical-align-containers">
+                  <!-- MOBILE NAV BUTTON -->
                   <div class="qodef-mobile-menu-opener">
                     <a href="javascript:void(0)">
                       <span class="qodef-mobile-opener-icon-holder">
@@ -9092,9 +9093,10 @@ export default {};
 <style>
 .qodef-vertical-align-containers .qodef-position-right {
   position: relative;
-  float: none;
+  float: right;
   z-index: 2;
   height: 100%;
   text-align: right;
+  width: 75%;
 }
 </style>

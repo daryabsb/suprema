@@ -13,6 +13,7 @@
     <!-- <DescriptiveTitle /> -->
     <nuxt />
 
+    <!-- <Footer /> -->
     <noscript>
       <iframe
         src="https://www.googletagmanager.com/ns.html?id=GTM-M4XZBMN"
@@ -28,10 +29,11 @@
 // import RightSidebar from "~/components/RightSidebar";
 // import Transition from '~/components/Transition';
 // import TopNav from "~/components/TopNav";
-// import DescriptiveTitle from '~/components/DescriptiveTitle';
+// import Footer from "~/components/Footer";
 export default {
   components: {
     // RightSidebar,
+    // Footer
     // Transition
     // TopNav
     // DescriptiveTitle
